@@ -1,5 +1,5 @@
 ### Hola soy Franco Ruggiero 👋
-<!-- ![200w](https://user-images.githubusercontent.com/88565149/188007446-7c984092-061a-45bc-a40d-52e8bcc8949a.gif) -->
+![me](https://user-images.githubusercontent.com/88565149/188007446-7c984092-061a-45bc-a40d-52e8bcc8949a.gif) 
 
 <!--
 **FrancoRugg/FrancoRugg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
